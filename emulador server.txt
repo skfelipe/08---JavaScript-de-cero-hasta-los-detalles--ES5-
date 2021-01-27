@@ -1,0 +1,7 @@
+cmd como admin
+
+comando	   +  ruta   + comando + puerto ejecucion
+
+http-server C:\Users\skfelipe\Desktop\Udemy\08 - JavaScript de cero hasta los detalles (ES5)\JavaScript -p 8086
+
+http-server C:\Users\skfelipe\Desktop\Udemy\JavaScript -p 8086
